@@ -238,7 +238,7 @@ main {
 .new-in {
   width: 100%;
   height: 35vh;
-  background-image: url("/assets/img/NEW.jpg");
+  background-image: url("../img/NEW.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -310,19 +310,19 @@ main {
   font-size: x-large;
 }
 .dress {
-  background-image: url("/assets/img/DRESS.jpg");
+  background-image: url("../img/DRESS.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   filter: brightness(40%);
 }
 .coat {
-  background-image: url("/assets/img/COAT.jpg");
+  background-image: url("../img/COAT.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   filter: brightness(40%);
 }
 .accesories {
-  background-image: url("/assets/img/ACCE.jpg");
+  background-image: url("../img/ACCE.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   filter: brightness(40%);
